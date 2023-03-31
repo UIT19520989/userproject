@@ -1,0 +1,27 @@
+.profile-nav-bg {
+    height: 300px;
+    margin-top: -82.8px;
+    border-radius: 12px;
+    box-shadow: 0 20px 27px rgb(0 0 0 / 5%);
+    background-size: cover;
+    background-position: 50%;
+}
+
+.actionDelete {
+    display: flex;
+    align-items: center;
+    svg {
+        path {
+            fill: #ff7875;
+        }
+    }
+}
+
+.desTitle {
+    margin-top: 16px;
+}
+
+.otherUsers {
+    display: flex;
+    flex-direction: column;
+}

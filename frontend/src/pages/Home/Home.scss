@@ -1,0 +1,66 @@
+.col-content {
+    flex-grow: 1;
+    padding: 24px;
+    margin-right: 0;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.ant-muse span {
+    color: #8c8c8c;
+    font-weight: 600;
+}
+
+.ant-muse h5 {
+    margin: 0 0 15px !important;
+    font-size: 20px;
+}
+
+.ant-typography.lastweek {
+    color: #8c8c8c;
+    font-weight: 600;
+}
+
+.icon-move-right {
+    color: #1890ff;
+    display: block;
+}
+
+.icon-move-right .anticon-right {
+    color: #40a9ff;
+    margin-left: 2px;
+}
+
+.gradent,
+.gradent h5 {
+    color: #fff;
+}
+
+.card-info-2 .ant-card-body {
+    height: 100%;
+}
+
+.gradent {
+    background: url(../../assets/imgs/info-card-2.jpg) no-repeat top;
+    background-size: cover;
+}
+
+.gradent .ant-typography {
+    color: #fff;
+    font-size: 20px;
+}
+
+.card-content p {
+    font-size: 16px;
+}
+
+.gradent .icon-move-right,
+.gradent .icon-move-right .anticon-right {
+    color: #fff;
+}
+
+:where(.css-dev-only-do-not-override-ph9edi).ant-card .ant-card-body {
+    padding: 16px;
+}

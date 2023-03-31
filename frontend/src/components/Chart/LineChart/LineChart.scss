@@ -1,0 +1,15 @@
+.linechart {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.linechart {
+    h5:where(.css-dev-only-do-not-override-ph9edi).ant-typography {
+        width: 100%;
+        font-weight: 700;
+        margin: 0;
+        text-align: center;
+    }
+}
