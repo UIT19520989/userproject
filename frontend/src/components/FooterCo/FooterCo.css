@@ -1,0 +1,17 @@
+.layout-default .ant-layout-footer .menu-nav-social a svg {
+    fill: #8c8c8c;
+    vertical-align: middle;
+}
+.layout-default .ant-layout-footer .menu-nav-social a:hover svg {
+    fill: #1890ff;
+}
+
+.layout-default .ant-layout-footer .copyright {
+    font-size: 16px;
+    color: #8c8c8c;
+}
+
+.layout-default .ant-layout-footer .copyright a {
+    color: inherit;
+    font-weight: normal;
+}

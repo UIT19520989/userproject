@@ -1,0 +1,72 @@
+.sign-in {
+    padding: 0 20px;
+}
+.layout-default.layout-signin .ant-layout-content {
+    padding-top: 40px;
+    margin-inline: 20px;
+}
+.font-regular {
+    font-weight: 400;
+}
+.signin h1 {
+    font-size: 48px;
+    font-weight: 700;
+    color: #141414;
+}
+
+.signin h5 {
+    font-weight: 400;
+    color: #8c8c8c;
+    font-size: 20px;
+    white-space: normal;
+    text-align: left;
+    margin-bottom: 0.5em;
+}
+
+.ant-row.ant-form-item.username {
+    display: block;
+}
+
+.ant-row.ant-form-item.username .ant-col.ant-form-item-label .ant-form-item-required:before {
+    display: none;
+}
+
+.ant-row.ant-form-item.username .ant-col.ant-form-item-label {
+    font-size: 13px;
+    font-weight: 600;
+    color: #141414;
+}
+.signin .ant-form-item-control-input button.ant-switch {
+    margin-right: 5px;
+}
+.text-dark {
+    color: #141414;
+}
+.sign-img img {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    display: block;
+}
+.layout-signin {
+    background: #fff;
+}
+.layout-signin footer.ant-layout-footer svg {
+    width: 18px;
+    height: 18px;
+}
+
+.layout-signin footer.ant-layout-footer ul li:after {
+    display: none;
+}
+
+.row-col .ant-row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+@media (min-width: 768px) {
+    .sign-img img {
+        margin: 0;
+    }
+}

@@ -1,0 +1,32 @@
+.setting-drwer {
+    background: #fff;
+    border-radius: 50%;
+    bottom: 42px;
+    right: 30px;
+    font-size: 1.25rem;
+    z-index: 990;
+    box-shadow: 0 2px 12px 0 rgb(0 0 0/16%);
+    width: 52px;
+    height: 52px;
+    text-align: center;
+    line-height: 60px;
+    position: fixed;
+    cursor: pointer;
+}
+
+.header-top {
+    border-bottom: 1px solid rgb(140 140 140/7%);
+    padding-bottom: 15px;
+    margin-top: -10px;
+
+    .subtitle {
+        display: block;
+        font-weight: 400;
+        color: #8c8c8c;
+        font-size: 14px;
+    }
+}
+
+.sidebar-color {
+    padding: 1.5rem 0;
+}

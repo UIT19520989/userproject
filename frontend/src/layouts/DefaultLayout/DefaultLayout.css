@@ -1,0 +1,7 @@
+main.ant-layout-content.content-ant {
+    padding-left: 0px !important;
+}
+
+section.ant-layout.layout-content .ant-layout-content.content-ant {
+    padding: 0px !important;
+}
